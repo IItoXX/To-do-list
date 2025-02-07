@@ -1,1 +1,1 @@
-Simple To do List avec Angular.
+Projet Angular To do list.
